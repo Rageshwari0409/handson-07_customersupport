@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent Order Management System
+# 🧠 Multi-Agent Customer Support System
 
 This project demonstrates a **multi-agent architecture** using Azure OpenAI and `autogen_agentchat` to simulate an intelligent order management system. It includes agents for product enquiry, order placement, order tracking, and complaint registration.
 
